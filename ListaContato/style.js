@@ -7,20 +7,20 @@ export default StyleSheet.create({
         marginTop: 40,
         backgroundColor: "rgb(255, 68, 68)",
   },
-  lembreteView : {
+  contatoView : {
     padding: 24,
     borderRadius: 8,
-    backgroundColor: '#80070',
+    backgroundColor: '#FFF',
     marginBottom: 16,
     marginTop: 2,
     flexDirection: "column",
     alignItems: "center",
     justifyContent: "center",
   },
-  lembreteTextInput: {
+  contatoTextInput: {
     width: '80%',
     height: 55,
-    backgroundColor: '#80070',
+    backgroundColor: '#FFF',
     borderColor: "#999",
     borderWidth: 1,
     borderRadius: 5,
@@ -34,7 +34,7 @@ export default StyleSheet.create({
   itemNaLista: {
     padding: 24,
     borderRadius: 8,
-    backgroundColor: '#80070',
+    backgroundColor: '#FFF',
     marginBottom: 16
   },
   listaTitle: {
