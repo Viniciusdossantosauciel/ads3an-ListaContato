@@ -18,7 +18,7 @@ const estilos = StyleSheet.create({
     },
     shadowRadius: 6,
     shadowOpacity: 0.32,
-    backgroundColor: '#999',
+    backgroundColor: 'white',
     elevation: 8,
     padding: 12,
     borderRadius: 12,
@@ -26,4 +26,4 @@ const estilos = StyleSheet.create({
   }
 });
 
-export default Cartao; 
+export default Cartao;
